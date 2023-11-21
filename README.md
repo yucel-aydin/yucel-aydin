@@ -1,7 +1,9 @@
 <h2 align="left">Hi 👋! My name is Yücel, from Turkey</h2>
 
 ###
-<iframe align="right"  src="https://giphy.com/embed/l3q2KRkOVYvi8WfU4" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jerseydemic-l3q2KRkOVYvi8WfU4">via GIPHY</a></p>
+<img align="right"  height="150" src="https://media.giphy.com/media/l3q2KRkOVYvi8WfU4/giphy.gif"  />
+
+
 <!-- **yucel-aydin/yucel-aydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
