@@ -1,8 +1,7 @@
 <h2 align="left">Hi 👋! My name is Yücel, from Turkey</h2>
 
 ###
-<img align="right"  height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+<iframe align="right"  src="https://giphy.com/embed/l3q2KRkOVYvi8WfU4" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jerseydemic-l3q2KRkOVYvi8WfU4">via GIPHY</a></p>
 <!-- **yucel-aydin/yucel-aydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
@@ -23,9 +22,7 @@
 
 
 
-<div align="CENTER">
-  
-  
+<div align="CENTER">  
     
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" width="42" alt=".net core logo" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo" />
