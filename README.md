@@ -8,12 +8,7 @@
 
 
 - 🔭 I’m working as a Senior .NET Developer at 4ALabs,
-- 💻 Also, Computer Engineer.
-- 🌱 I’m currently learning Swift.
-- 👯 I’m collaborating as a PM on other software project.
-- 💬 If you're new to learning to software, I can help you.
-- 😄 Pronouns: Ezo 
-
+- 🌱 I’m currently learning python.
 
 
 
