@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m working as a Senior .NET Developer at 4ALabs,
-- 🌱 I’m currently learning python.
+
 
 <br clear="both">
 
